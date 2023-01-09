@@ -50,6 +50,7 @@
 
 .app__wrapper_img img {
   width: 80%;
+  max-width: 500px;
 }
 
 .custom__button {
