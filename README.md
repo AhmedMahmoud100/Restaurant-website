@@ -1,4 +1,4 @@
-# GerichtGericht
+# Gericht
 
 Restaurant-website
 
