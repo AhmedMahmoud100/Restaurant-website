@@ -5,15 +5,11 @@ Restaurant-website
 ## Demo
 https://gericht-resturant-website.netlify.app/
 
-
 ## Built with
 
 - ReactJS
 - javaScript
-- Material-UI 
-- chart.js
-- axios
-- SASS
+- react-icons
 
 ## Getting Started
 
